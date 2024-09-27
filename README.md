@@ -7,23 +7,23 @@
 </p>
 <h1 align="center">APP DAILY PLANNER</h1>
 <p align="center"><img width="100" height="100" src="icons8-calendar-100.png" alt="airplane-take-off"/></p>
-<h2 align="center">Chào mừng bạn đến với Trang Web Bán Vé Máy Bay!</h2>
+<h2 align="center">Chào mừng bạn đến với Ứng dụng quản lý thời gian!</h2>
 <div align="center">
-<p align="center">Bạn đã sẵn sàng khám phá thế giới? Hãy để chúng tôi giúp bạn biến mọi chuyến đi thành hiện thực với dịch vụ bán vé máy bay hàng đầu của chúng tôi. Với một loạt các tùy chọn vé, giá cả cạnh tranh, và trải nghiệm đặt vé thuận tiện, chúng tôi cam kết đưa bạn đến bất kỳ điểm đến nào trên thế giới một cách dễ dàng và an toàn.</p>
+<p align="center">Bạn đã sẵn sàng thiết lập lịch trình chưa? Hãy để chúng tôi giúp bạn biến mọi lịch trình thành hiện thực.</p>
 <img src="d6d1e0bbdd2eda8f44a2125154670e82.gif" width="300" alt="máy bay">
 </div>
   </head>
   <body>
 <h2 align="center">&#x1F4A1; I/ Mục đích dự án</h2>
 <p>
-- Giá Cả Cạnh Tranh: Chúng tôi liên tục theo dõi giá vé và cung cấp ưu đãi hấp dẫn. Bạn sẽ luôn tìm thấy giá vé hợp lý trên trang web của chúng tôi.
+- Mục đích của dự án app đặt lịch bao gồm:
 
-- Trải Nghiệm Đặt Vé Dễ Dàng: Giao diện trực quan và thân thiện với người dùng giúp bạn đặt vé một cách nhanh chóng và thuận tiện. Chỉ vài cú nhấp chuột, và bạn đã sẵn sàng lên đường.
+- Giúp người dùng quản lý thời gian hiệu quả bằng cách tạo và theo dõi lịch trình cá nhân.
 
-- Hỗ Trợ Khách Hàng 24/7: Đội ngũ hỗ trợ của chúng tôi sẵn sàng giúp đỡ bạn 24/7. Hãy liên hệ với chúng tôi bất kỳ lúc nào bạn cần sự hỗ trợ.
+- Tạo ra một công cụ tiện ích giúp lên lịch các cuộc hẹn, công việc, và sự kiện hàng ngày hoặc hàng tuần.
 
-- An Toàn và Đáng Tin Cậy: Chúng tôi tuân thủ nghiêm ngặt các tiêu chuẩn an toàn và bảo mật. Thông tin cá nhân của bạn luôn được bảo vệ và được quản lý một cách an toàn.</p>
-<h2 align="center"><i>&#x1F464;</i>II/ Thông tin các thành viên trong nhóm:</h2>
+- Tăng năng suất và sự tổ chức của người dùng bằng cách cung cấp các tính năng nhắc nhở và quản lý nhiệm vụ.</p>
+<h2 align="center"><i>&#x1F464;</i>II/ Thông tin thành viên:</h2>
 <div align="center">
 <table style="width:100%;">
   <tr>
@@ -37,20 +37,6 @@
       </tr>
     </thead>
     <tbody>
-      <tr>
-        <td>1</td>
-        <td>Lê Phan Minh Trí</td>
-        <td>LePhanMinhTri</td>
-        <td>TeamLead, Dev</td>
-        <td><a href="https://www.facebook.com/redd.thai.9"><img src="buiquocthai.png" alt="Hình ảnh 1" width="100" height="80"></a></td>
-      </tr>
-      <tr>
-        <td>2</td>
-        <td>Nguyễn Minh Trường</td>
-        <td>NguyenMinhTruong</td>
-        <td>Product Owner, Dev</td>
-        <td><a href="https://www.facebook.com/profile.php?id=100013284305932"><img src="z4883588160885_366b624e51d42d7a40aba1bcbc21e462.jpg" alt="Hình ảnh 1" width="100" height="80"></td>
-      </tr>
       <tr>
         <td>3</td>
         <td>Bùi Quốc Thái</td>
