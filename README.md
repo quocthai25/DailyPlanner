@@ -5,7 +5,7 @@
 <p align="center">
   <img src="anh-dong-welcome-don-gian-mau-do_075926912.gif" width="300" alt="Animated Welcome Image">
 </p>
-<h1 align="center">WEB BÁN VÉ MÁY BAY</h1>
+<h1 align="center">APP DAILY PLANNER</h1>
 <p align="center"><img width="60" height="60" src="https://img.icons8.com/papercut/60/airplane-take-off.png" alt="airplane-take-off"/></p>
 <h2 align="center">Chào mừng bạn đến với Trang Web Bán Vé Máy Bay!</h2>
 <div align="center">
