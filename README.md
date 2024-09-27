@@ -6,7 +6,7 @@
   <img src="anh-dong-welcome-don-gian-mau-do_075926912.gif" width="300" alt="Animated Welcome Image">
 </p>
 <h1 align="center">APP DAILY PLANNER</h1>
-<p align="center"><img width="60" height="60" src="assets/logo.jpg" alt="airplane-take-off"/></p>
+<p align="center"><img width="100" height="100" src="icons8-calendar-100.png" alt="airplane-take-off"/></p>
 <h2 align="center">Chào mừng bạn đến với Trang Web Bán Vé Máy Bay!</h2>
 <div align="center">
 <p align="center">Bạn đã sẵn sàng khám phá thế giới? Hãy để chúng tôi giúp bạn biến mọi chuyến đi thành hiện thực với dịch vụ bán vé máy bay hàng đầu của chúng tôi. Với một loạt các tùy chọn vé, giá cả cạnh tranh, và trải nghiệm đặt vé thuận tiện, chúng tôi cam kết đưa bạn đến bất kỳ điểm đến nào trên thế giới một cách dễ dàng và an toàn.</p>
