@@ -38,67 +38,57 @@
     </thead>
     <tbody>
       <tr>
-        <td>3</td>
+        <td>1</td>
         <td>Bùi Quốc Thái</td>
         <td>quocthai25</td>
-        <td>ScrumMaster, Dev</td>
-        <td><a href="https://www.facebook.com/minhtrile13"><img src="lephanminhtri.png" alt="Hình ảnh 3" width="100" height="80"></td>
+        <td>Dev</td>
+        <td><a href="[https://www.facebook.com/minhtrile13](https://www.facebook.com/redd.thai.9/)"><img src="avatar2.png" alt="Hình ảnh 3" width="100" height="80"></td>
       </tr>
     </tbody>
   </table>
 </div>
-<h2 align="center">&#x2713; III/ Các chức năng đã có của đồ án</h2>
+<h2 align="center">&#x2713; III/ Các trang giao diện của đồ án</h2>
 <div align="center"> 
   <table>
     <thead>
       <tr>
-        <th>Sprint</th>
-        <th>Chức Năng</th>
+        <th>Các trang giao diện của App</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td>Sprint 1</td>
-        <td>- Đăng nhập<br>- Đăng ký<br>- Đăng xuất<br>- Homepage<br>- List Product</td>
-      </tr>
-      <tr>
-        <td>Sprint 2</td>
-        <td>- Tìm kiếm vé<br>- Xóa vé trong giỏ hàng<br>- Xem danh sách vé<br>- Thêm vé<br>- Thanh toán<br>- Chi tiết sản phẩm</td>
-      </tr>
-      <tr>
-        <td>Sprint 3</td>
-        <td>- Đổi mật khẩu<br>- Trang Profile<br>- Sửa chuyến bay<br>- Xóa chuyến bay<br>- Quản lý sân bay<br>- Quản lý bay<br>- Thanh toán online</td>
+        <td>- Đăng nhập<br>- Trang Welcome<br>- Add Task List<br>- Calendar<br>- Task List<br>- Setting<br>- Trang thống kê</td>
       </tr>
     </tbody>
   </table>
 </div>
 
-<h2 align="center">&#x274C; IV/ Các chức năng chưa có của đồ án</h2>
+<h2 align="center">&#x274C; IV/ Các giao diện cơ bản mà App chưa có</h2>
 <div align="center">
   <table style="width:100%;">
     <thead>
       <tr>
         <th>STT</th>
-        <th>Chức Năng</th>
+        <th>Giao diện</th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td>1</td>
-        <td>- Vé khứ hồi</td>
+        <td>- Đăng kí</td>
       </tr>
       <tr>
         <td>2</td>
-        <td>- Vé một chiều</td>
+        <td>- Quên mật khẩu</td>
       </tr>
       <tr>
         <td>3</td>
-        <td>- Giao diện đẹp</td>
+        <td>- Giao diện chỉnh sửa form chữ cho người dùng</td>
       </tr>
     </tbody>
   </table>
 </div>
-  <h2 align="center">&#x1F4F7; V/ Một số hình ảnh của website</h2>
+  <h2 align="center">&#x1F4F7; V/ Một số hình ảnh của App</h2>
 <img src="https://github.com/LePhanMinhTri/2_BanVeMayBay_T5_Ca3/blob/main/Screenshot%202023-11-09%20101156.png">
 <h3 align="center">Trang chủ</h3>
 <img src="Screenshot 2023-11-16 141839.png">
