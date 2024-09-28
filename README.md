@@ -93,15 +93,46 @@
         <table>
             <tr>
                 <td><img src="welcome.png" alt="Image 1" width="300"></td>
-                <td><img src="image2.jpg" alt="Image 2" width="300"></td>
+                <td><img src="login.png" alt="Image 2" width="300"></td>
             </tr>
         </table>
     </div>
-<h3 align="center">Trang chủ</h3>
-<img src="Screenshot 2023-11-16 141839.png">
-<h3 align="center">Danh sách chuyến bay</h3>
-<img src="Screenshot 2023-11-16 142649.png">
-<h3 align="center">Footer cho người dùng</h3>
+<h3 align="center">Welcome page , Login page</h3>
+<div align="center">
+        <table>
+            <tr>
+                <td><img src="thongke.png" alt="Image 1" width="300"></td>
+                <td><img src="tasklist.png" alt="Image 2" width="300"></td>
+            </tr>
+        </table>
+    </div>
+<h3 align="center">Thống kê page , Task List page</h3>
+<div align="center">
+        <table>
+            <tr>
+                <td><img src="calendar.png" alt="Image 1" width="300"></td>
+                <td><img src="setting.png" alt="Image 2" width="300"></td>
+            </tr>
+        </table>
+    </div>
+<h3 align="center">Canlendar page , Setting page</h3>
+<div align="center">
+        <table>
+            <tr>
+                <td><img src="darkmode.png" alt="Image 1" width="300"></td>
+            </tr>
+        </table>
+    </div>
+<h3 align="center">Dark mode</h3>
+<div align="center">
+        <table>
+            <tr>
+                <td><img src="addtask.png" alt="Image 1" width="300"></td>
+                <td><img src="taskdetail.png" alt="Image 2" width="300"></td>
+            </tr>
+        </table>
+    </div>
+<h3 align="center">Add Task page , Detail Task page</h3>
 <h2 align="center"><i>&#x2692;</i>VI/ Các công cụ hỗ trợ</h2>
 <p align="center">
   <img width="96" height="96" src="https://img.icons8.com/color-glass/96/github--v1.png" alt="github--v1"/>
