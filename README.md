@@ -89,7 +89,14 @@
   </table>
 </div>
   <h2 align="center">&#x1F4F7; V/ Một số hình ảnh của App</h2>
-<img src="https://github.com/LePhanMinhTri/2_BanVeMayBay_T5_Ca3/blob/main/Screenshot%202023-11-09%20101156.png">
+<div align="center">
+        <table>
+            <tr>
+                <td><img src="image1.jpg" alt="Image 1" width="300"></td>
+                <td><img src="image2.jpg" alt="Image 2" width="300"></td>
+            </tr>
+        </table>
+    </div>
 <h3 align="center">Trang chủ</h3>
 <img src="Screenshot 2023-11-16 141839.png">
 <h3 align="center">Danh sách chuyến bay</h3>
