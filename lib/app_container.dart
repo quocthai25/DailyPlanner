@@ -19,7 +19,6 @@ class _AppContainerState extends State<AppContainer> {
   int _selectedIndex = 0;
   List<Map<String, dynamic>> tasks = [];
 
-  // Sample statistics data
   int completedTasks = 5;
   int newTasks = 10;
   int inProgressTasks = 3;

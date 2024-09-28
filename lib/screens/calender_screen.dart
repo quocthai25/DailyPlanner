@@ -38,8 +38,8 @@ class _CalenderScreenState extends State<CalenderScreen> {
           decoration: BoxDecoration(
             gradient: LinearGradient(
               colors: [
-                isDarkMode ? Colors.black : Color(0xffB81736),
-                isDarkMode ? Colors.grey[800]! : Color(0xff281537),
+                isDarkMode ? Colors.black : const Color(0xffB81736),
+                isDarkMode ? Colors.grey[800]! : const Color(0xff281537),
               ],
               begin: Alignment.topLeft,
               end: Alignment.bottomRight,
@@ -78,12 +78,12 @@ class _CalenderScreenState extends State<CalenderScreen> {
                 return _events[day] ?? [];
               },
               calendarStyle: CalendarStyle(
-                todayDecoration: BoxDecoration(
-                  color: const Color(0xffB81736),
+                todayDecoration: const BoxDecoration(
+                  color: Color(0xffB81736),
                   shape: BoxShape.circle,
                 ),
-                selectedDecoration: BoxDecoration(
-                  color: const Color(0xff281537),
+                selectedDecoration: const BoxDecoration(
+                  color: Color(0xff281537),
                   shape: BoxShape.circle,
                 ),
                 markerDecoration: BoxDecoration(
@@ -138,8 +138,8 @@ class _CalenderScreenState extends State<CalenderScreen> {
                 child: ListTile(
                   leading: Container(
                     padding: const EdgeInsets.all(8.0),
-                    decoration: BoxDecoration(
-                      color: const Color(0xffB81736),
+                    decoration: const BoxDecoration(
+                      color: Color(0xffB81736),
                       shape: BoxShape.circle,
                     ),
                     child: const Icon(

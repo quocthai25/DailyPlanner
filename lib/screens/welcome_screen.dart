@@ -20,7 +20,7 @@ class WelcomeScreen extends StatelessWidget {
         ),
         child: Column(children: [
           Padding(
-            padding: EdgeInsets.only(top: 200.0),
+            padding: const EdgeInsets.only(top: 200.0),
             child: ClipOval(
               child: Image.asset(
                 'assets/logo.jpg',
