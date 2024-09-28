@@ -136,9 +136,8 @@
 <h2 align="center"><i>&#x2692;</i>VI/ Các công cụ hỗ trợ</h2>
 <p align="center">
   <img width="96" height="96" src="https://img.icons8.com/color-glass/96/github--v1.png" alt="github--v1"/>
-  <img width="96" height="96" src="https://img.icons8.com/fluency/96/visual-studio.png" alt="visual-studio"/>
-  <img width="96" height="96" src="https://img.icons8.com/parakeet/96/mysql.png" alt="mysql"/>
-</p>
+  <img width="96" height="96" src="https://img.icons8.com/color/96/flutter.png" alt="flutter"/>
+  <img width="96" height="96" src="https://img.icons8.com/color/96/visual-studio-code-2019.png" alt="visual-studio-code-2019"/></p>
 <h2 align="center">&#x1F52D; VII/ Phương hướng phát triển</h2>
 <div align="center">
 <table style="width:100%;">
@@ -150,19 +149,19 @@
     </thead>
     <tbody>
       <tr>
-        <td>- Tiện lợi cho người dùng dễ sử dụng hơn</td>
+        <td>- Tích hợp thông báo nhắc nhở: Phát triển tính năng gửi thông báo nhắc nhở cho người dùng về các cuộc hẹn hoặc nhiệm vụ sắp tới. Điều này giúp họ không bỏ lỡ các sự kiện quan trọng.</td>
       </tr>
       <tr>
-        <td>- Giao diện đẹp dễ dùng và đơn giản</td>
+        <td>- Đồng bộ hóa với lịch ngoài: Cho phép đồng bộ lịch của ứng dụng với các nền tảng khác như Google Calendar, Outlook hoặc Apple Calendar để người dùng có thể quản lý lịch trình một cách dễ dàng và tập trung.</td>
       </tr> 
       <tr>
-        <td>- Uy tín và đảm bảo chât lượng , an toàn đối với người dùng</td>
+        <td>- Gợi ý lịch thông minh: Sử dụng trí tuệ nhân tạo (AI) để đề xuất khung giờ thích hợp cho việc đặt lịch, dựa trên lịch trình sẵn có của người dùng và thời gian trống còn lại.</td>
       </tr> 
       <tr>
-        <td>- Tăng cường làm nhiều thêm chức năng để phục vụ cho người dùng</td>
+        <td>- Tùy chỉnh giao diện: Cung cấp nhiều tùy chọn về giao diện và màu sắc để người dùng cá nhân hóa ứng dụng theo sở thích cá nhân, giúp trải nghiệm người dùng trở nên tốt hơn.</td>
       </tr> 
       <tr>
-        <td>- Update liên tục giao diện đại và nhu cầu người dùng</td>
+        <td>- Chia sẻ và mời tham gia sự kiện: Cho phép người dùng chia sẻ sự kiện với bạn bè hoặc đồng nghiệp qua email, tin nhắn hoặc liên kết trực tiếp, giúp việc đặt lịch hẹn nhóm trở nên thuận tiện hơn.</td>
       </tr> 
     </tbody>
   </table>
