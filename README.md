@@ -92,7 +92,7 @@
 <div align="center">
         <table>
             <tr>
-                <td><img src="image1.jpg" alt="Image 1" width="300"></td>
+                <td><img src="welcome.png" alt="Image 1" width="300"></td>
                 <td><img src="image2.jpg" alt="Image 2" width="300"></td>
             </tr>
         </table>
